@@ -2,7 +2,7 @@
 - Practice using headings and lists to create a basic HTML Document stucture.
 ### Objective
 - Learn how to create nested lists within HTML
-**Instructions**
+- **Instructions**
 1. Create an HTML file.
 2. Add a title to your HTML document.
 3. Inside the body, create a heading for the

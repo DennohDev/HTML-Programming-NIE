@@ -2,7 +2,7 @@
 ### Objective
 - Learn how to create nested lists within HTML.
 
-**Instructions:**
+- **Instructions:**
 1. Create an HTML file.
 2. Add a heading for the main title (e.g., "My Travel Bucket List").
 3. Create an ordered list of three countries you want to visit.

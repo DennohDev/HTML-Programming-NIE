@@ -2,7 +2,7 @@
 ### Objective
 - Use headings and lists to create a structured recipe.
 
-**Instructions:**
+- **Instructions:**
 
 1. Create an HTML file.
 2. Add a title for your HTML document (e.g., "Pancake Recipe").
